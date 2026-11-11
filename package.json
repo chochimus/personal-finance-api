@@ -1,0 +1,23 @@
+{
+  "name": "personal-finance-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chochimus/personal-finance-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chochimus/personal-finance-api/issues"
+  },
+  "homepage": "https://github.com/chochimus/personal-finance-api#readme",
+  "dependencies": {
+    "postgrejs": "^3.15.1"
+  }
+}
